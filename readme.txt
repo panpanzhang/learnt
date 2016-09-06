@@ -6,3 +6,5 @@ Git tracks changes of files.
 My stupid boss still prefers SVN.
 git remote add origin http://gitub.com/panpanzhang/learngit.git.
 git checkout -b dev
+up-to-date.
+up-to-date.
